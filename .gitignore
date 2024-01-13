@@ -28,7 +28,8 @@
         token
         words.txt
         zad3a.csv
-        zadanie/ .ICEauthority
+        zadanie/
+       .ICEauthority
         .Xauthority
         .bash_history
         .cache
